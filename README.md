@@ -1,6 +1,6 @@
 # Sample-website
 
-### sample-site-responsive
+### sample-site-responsive.
 
 ![Screenshot (60)](https://user-images.githubusercontent.com/110972269/201703485-7d6f565d-68a0-4a57-bd75-4d3b79792c1f.png)
 
